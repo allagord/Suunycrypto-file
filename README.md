@@ -29,7 +29,7 @@ B. If you want to use a subfolder for your existing `username.github.io` as your
 You can change `repo` to anything you want, like `cydia` for example. So your repo url would be `https://username.github.io/cydia`.
 
 
-#### 2. Personalize
+#### 2. Personalize tree
 
 **Release File**
 
