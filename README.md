@@ -1,4 +1,4 @@
-## Archived rekt
+## Archived rekte5
 
 I started this project to provide a non-complex way for IOS Jailbreak tweak developers to host packages and depictions on their personal repositories. What started as a hobby has become one of the most popular Cydia repo templates - 272 forks and 173 stars as of this writing.
 
